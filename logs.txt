@@ -1,0 +1,8 @@
+::1 - - [14/Sep/2023:16:00:20 +0000] "GET /movies/ HTTP/1.1" 200 116 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:01:03 +0000] "PUT /movies/650322c9cfc9fe3d2422a2b6 HTTP/1.1" 200 106 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:01:09 +0000] "GET /movies/ HTTP/1.1" 200 108 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:01:57 +0000] "POST /movies/ HTTP/1.1" 200 112 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:02:02 +0000] "GET /movies/ HTTP/1.1" 200 229 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:02:16 +0000] "DELETE /movies/65032e756b23f3df0694e721 HTTP/1.1" 200 120 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:02:21 +0000] "GET /movies/65032e756b23f3df0694e721 HTTP/1.1" 404 170 "-" "PostmanRuntime/7.32.1"
+::1 - - [14/Sep/2023:16:02:26 +0000] "GET /movies/ HTTP/1.1" 200 108 "-" "PostmanRuntime/7.32.1"
